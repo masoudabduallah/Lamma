@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560246080084",
+    "project_id": "lamma-d6be2",
+    "storage_bucket": "lamma-d6be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560246080084:android:67f38da80f0a683cd8a3c1",
+        "android_client_info": {
+          "package_name": "com.ArabApp.lamma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDaeZgAsm3XiGLH4cgs2oddGbCq-IUPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560246080084:android:df7906140a71368ed8a3c1",
+        "android_client_info": {
+          "package_name": "com.Lamma.ArabApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDaeZgAsm3XiGLH4cgs2oddGbCq-IUPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
