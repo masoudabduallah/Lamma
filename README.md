@@ -24,4 +24,4 @@
 
 1. **استنساخ المستودع:**
    ```bash
-   git clone https://github.com/username/lamma.git
+   git clone https://github.com/masoudabduallah/Lamma
