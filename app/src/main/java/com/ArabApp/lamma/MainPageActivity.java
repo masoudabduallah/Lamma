@@ -21,7 +21,16 @@ public class MainPageActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main_page);
 
+        Button mFindUser = findViewById(R.id.findUser);
         Button mLogout = findViewById(R.id.logout);
+
+        mFindUser.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainPageActivity.this, FindUserActivity.class));
+            }
+        });
+
         mLogout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
